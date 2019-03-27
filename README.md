@@ -7,4 +7,4 @@ sudo apt-get install python -y
 
 sudo apt-get install python-pip -y
 
-sudo screen -dmS MyBot python MyBot.py
+sudo screen -dmS MyBot python MyBOT.py
